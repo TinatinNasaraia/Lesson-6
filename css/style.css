@@ -1,0 +1,176 @@
+/*header styles*/
+.navigation {
+	display: inline-block;
+	margin-left: 40px;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 57px;
+	color: #707070;
+}
+.header-bg {
+	background: #ffff;
+	padding: 20px; 
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	margin-left: 60px;
+}
+
+.section-after-header {
+	margin-top: 90px;
+}
+.main-title {
+    font-size: 80px;
+    position: absolute;
+    top: 300px;
+    left: 415px;
+    color: #FFFFFF;
+}
+.second-title {
+	font-size: 20px;
+	position: absolute;
+	top: 400px;
+	left: 500px;
+	color: #ffff;
+}
+body {
+	height: 1800px;
+}
+
+/*section styles*/
+.first-block {
+	margin-left: 60px;
+	padding-top: 60px;
+	display: inline-block;
+}
+.left-text {
+	width: 241px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 80px;
+}
+.main-text {
+	margin-bottom: 2.2px;
+	font-size: 16px;
+	color: #8D8D8D;
+}
+.second-text {
+	margin-bottom: 39.1px;
+	font-size: 26px;
+	color: #1A1A1B;
+}
+.first-p {
+	color: grey;
+}
+.left-block{
+	position: relative;
+	width: 269px;
+	display: inline-block;
+	margin-left: 59px;
+	vertical-align: top;
+}
+.booking {
+	position: absolute;
+	top: 26px;
+	left: 59px;
+	font-size: 18px;
+	display: inline-block;
+}
+.second-p {
+	color: grey;
+	font-size: 16px;
+	margin-top: 50px;
+}
+.middle-block {
+	position: relative;
+	display: inline-block;
+	width: 269px;
+	margin-left: 59px;
+	vertical-align: top;
+}
+.hotel {
+	margin-bottom: 30px;
+	font-size: 20px;
+	color: #1A1A1B;
+	margin-top: 10px;
+}
+.third-p {
+	color: grey;
+	font-size: 16px;
+	margin-top: 10px;
+}
+.right-block {
+	position: relative;
+	display: inline-block;
+	width: 269px;
+	margin-left: 59px;
+	vertical-align: top;
+}
+.trip {
+	margin-bottom: 30px;
+	font-size: 20px;
+	color: #1A1A1B;
+	margin-top: 10px;
+}
+/*second block*/
+
+.left-block1 {
+	position: relative;
+	display: inline-block;
+	width: 269px;
+	margin-left: 385px;
+	vertical-align: top;
+	margin-top: 21.6px;
+}
+.cruise {
+	position: absolute;
+	top: 26px;
+	left: 59px;
+	font-size: 18px;
+	display: inline-block;
+}
+.fourth-p {
+	color: grey;
+	font-size: 16px;
+	margin-top: 60px;
+}
+.middle-block1 {
+	position: relative;
+	display: inline-block;
+	width: 269px;
+	margin-left: 59px;
+	vertical-align: top;
+	margin-top: 20px;
+}
+.fire {
+	margin-bottom: 30px;
+	font-size: 20px;
+	color: #1A1A1B;
+	margin-top: 10px;
+}
+.fifth-p {
+	color: grey;
+	font-size: 16px;
+	margin-bottom: 50px;
+}
+.right-block1 {
+	position: relative;
+	display: inline-block;
+	width: 269px;
+	margin-left: 59px;
+	vertical-align: top;
+	margin-top: 20px
+}
+.holidays {
+	margin-bottom: 30px;
+	font-size: 20px;
+	color: #1A1A1B;
+	margin-top: 10px;
+}
+.sixth-p {
+	color: grey;
+	font-size: 16px;
+	margin-bottom: 50px;
+}
